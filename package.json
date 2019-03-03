@@ -1,0 +1,19 @@
+{
+  "name": "pdfWorker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "multer": "^1.4.1",
+    "pdfjs-dist": "^2.0.943",
+    "svg-to-dataurl": "^1.0.0",
+    "uuid": "^3.3.2"
+  }
+}
