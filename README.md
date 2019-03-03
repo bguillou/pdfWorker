@@ -6,8 +6,8 @@
 
 ## Start
 ```bash
-yarn
-yarn start
+  yarn
+  yarn start
 ```
 
 ## How Use
@@ -27,4 +27,4 @@ yarn start
 ```
 
 ## Exemple
-- - [pdfViewer react](https://github.com/bguillou/pdfViewer)
+- [pdfViewer react](https://github.com/bguillou/pdfViewer)
