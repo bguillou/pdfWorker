@@ -4,8 +4,15 @@
 
 ![IMAGE](https://github.com/bguillou/pdfWorker/blob/master/description.gif)
 
+## Start
+```bash
+yarn
+yarn start
+```
+
 ## How Use
-- POST URL of PDF file
+
+- POST URL of PDF file on http://localhost:8000 like this: 
 
 ```js
 {
@@ -13,10 +20,10 @@
 }
 ```
 
-- return a ReadleStream
+- and receive a ReadableStream
 
 ```text
-    data:image/svg...data:image/svg
+    data:image/svg...data:image/svg...
 ```
 
 ## Exemple
