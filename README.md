@@ -4,8 +4,7 @@
 
 ![IMAGE](https://github.com/bguillou/pdfWorker/blob/master/description.gif)
 
-## How Use (Exemple)[https://github.com/bguillou/pdfViewer/tree/master/src/Component/helpers]
-
+## How Use
 - POST URL of PDF file
 
 ```js
@@ -19,3 +18,6 @@
 ```text
     data:image/svg...data:image/svg
 ```
+
+## Exemple
+- - [pdfViewer react](https://github.com/bguillou/pdfViewer)
